@@ -1,6 +1,7 @@
 # Trabalho 2 - Algoritmo Genético
 Tassiane Anzolin
 
+COMPLETO NO COLAB
 https://colab.research.google.com/drive/1oHMZD3Gg8DpSzRq-drTTQ9mtD55RvAYV?usp=sharing
 
 ## Escopo
